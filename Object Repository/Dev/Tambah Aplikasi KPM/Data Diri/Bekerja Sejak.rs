@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Bekerja Sejak</name>
+   <tag></tag>
+   <elementGuidId>c4215e9d-8a47-42a0-bf8e-30b7c049c2ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[2]/div/div[1]/div/div/div[2]/div/div/div/div[2]/div/div[7]/div[1]/div/div[2]/div/input[count(. | //*[@type = 'text']) = count(//*[@type = 'text'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value=''])[9]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-datepicker-wrapper.datePicker > div.react-datepicker__input-container > input.form-control</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>31a10f59-d9e1-44f3-b856-db8c362936f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>bed6c053-f60b-48d5-a32f-3a1a08d51ab5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>412ccea0-b700-44c6-9a25-381d4c3299d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[2]/div/div[1]/div/div/div[2]/div/div/div/div[2]/div/div[7]/div[1]/div/div[2]/div/input</value>
+      <webElementGuid>22e7648a-7bd8-4b96-91be-062ce4fc465a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[9]</value>
+      <webElementGuid>73a3ab97-ee3b-4ab9-a6b4-82d2d6492203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div[2]/div/input</value>
+      <webElementGuid>8a477fa3-0ae5-4066-a87d-750371ca8222</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>53e1986e-6f55-4350-bc33-d44d32ea0767</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Value Jenis Pekerjaan</name>
+   <tag></tag>
+   <elementGuidId>157035f9-f89a-4e42-a78e-75193873e81b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;react-select-17-option-${id}&quot;)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-select-17-option-1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#react-select-17-option-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f6190141-4e63-4b43-b9d2-ec0a71c8c507</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-158nmiz-option</value>
+      <webElementGuid>70fc3cc4-4b95-4420-9661-b91e064d54b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>react-select-17-option-1</value>
+      <webElementGuid>521dd826-b2b8-4859-a0eb-32940b5fc639</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>1c884abc-4b4c-4941-979e-fc110b74c10b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PEGAWAI SWASTA</value>
+      <webElementGuid>a01c44a5-6227-4d84-aff4-85d35fa9cb46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-select-17-option-${id}&quot;)</value>
+      <webElementGuid>2ab5609c-26c5-4af6-8bc0-ff5794b45f16</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='react-select-17-option-1']</value>
+      <webElementGuid>8e218ade-e0f9-4b23-9848-c65cf5434bfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PEGAWAI NEGERI'])[1]/following::div[1]</value>
+      <webElementGuid>b1a9574b-5b5f-43c0-aebb-b67db566a566</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Jenis Pekerjaan ...'])[1]/following::div[9]</value>
+      <webElementGuid>c2a918a0-2834-416d-9f9f-ff584f970384</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TNI/POLISI'])[1]/preceding::div[1]</value>
+      <webElementGuid>4b92f27d-8f61-4753-aad2-78728519514b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LAIN - LAIN'])[1]/preceding::div[2]</value>
+      <webElementGuid>ad1055d6-5a52-44ef-a1fd-a4b73fb52600</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PEGAWAI SWASTA']/parent::*</value>
+      <webElementGuid>731b7b45-5786-4289-acc7-0cb062526040</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>b790c32c-9b07-47f8-81e1-c3508a838823</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'react-select-17-option-1' and (text() = 'PEGAWAI SWASTA' or . = 'PEGAWAI SWASTA')]</value>
+      <webElementGuid>b6d19fca-1a4a-48e7-b428-e56263b88058</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Data Aplikasi</name>
+   <tag></tag>
+   <elementGuidId>bd081872-4510-4930-a891-cafb76151836</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[9]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-neutral-primary.mr-2.btn-sm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>02d1700d-fb77-43f3-b5f5-fb23bb0b7997</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>371109cf-6987-4c63-a62e-3f4f721aaa15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-neutral-primary mr-2 btn-sm</value>
+      <webElementGuid>05266ea9-693d-4fbf-928e-e40c6c81e9ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Data Aplikasi</value>
+      <webElementGuid>6fbbc502-ae58-4fa2-9f1d-9148dab46188</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app-wrapper app-sidebar-fixed app-header-fixed&quot;]/div[@class=&quot;app-main&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;app-content--inner&quot;]/div[@class=&quot;app-content--inner__wrapper&quot;]/div[1]/div[@class=&quot;card-box mb-5 card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;card-box shadow-none card&quot;]/div[@class=&quot;card-header pr-2&quot;]/div[@class=&quot;card-header--actions&quot;]/button[@class=&quot;btn btn-neutral-primary mr-2 btn-sm&quot;]</value>
+      <webElementGuid>0a29a544-eaf3-45db-9dff-c8752207b3ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[9]</value>
+      <webElementGuid>5a399780-3795-4f79-803d-698e74c89a12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div/div/div[3]/div[3]/div/div/div[3]/button</value>
+      <webElementGuid>0353c298-3576-4874-ae79-55b5be77a3d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mode Transfer Aplikasi'])[1]/following::button[1]</value>
+      <webElementGuid>faf48742-afd9-44e1-ae31-4227cce92ffa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Aplikasi KPM'])[1]/following::button[1]</value>
+      <webElementGuid>15a92a60-031c-4489-9ecd-5f66a7064316</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::button[1]</value>
+      <webElementGuid>754cb72e-cfc7-46bf-b842-fd9a86029ee3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>dfdb4add-eaac-47c5-a5d7-cc23577a0614</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Data Aplikasi' or . = 'Data Aplikasi')]</value>
+      <webElementGuid>394fdd89-7939-4d91-9e7a-da959f22955b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

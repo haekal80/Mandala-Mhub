@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Cek KTP</name>
+   <tag></tag>
+   <elementGuidId>20e05961-f9ed-40f2-b88c-63e0cb49093f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c22c3bfe-740a-4f11-9bcc-3c6b5d137feb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>52080866-6126-47e9-9e83-438fb5efe6ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>966a5480-5bfb-4f59-8b94-075510e249ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cek KTP</value>
+      <webElementGuid>14552ede-becc-4f2f-b109-4f5a5658e87f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app-wrapper app-sidebar-fixed app-header-fixed&quot;]/div[@class=&quot;app-main&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;app-content--inner&quot;]/div[@class=&quot;app-content--inner__wrapper&quot;]/div[1]/div[1]/div[@class=&quot;card card-box p-4 tabs-custom-prospect&quot;]/div[@class=&quot;card card-box mt-4&quot;]/div[@class=&quot;wizard vertical vertical-revert&quot;]/div[@class=&quot;dukcapil-result&quot;]/div[@class=&quot;bg-white row&quot;]/div[@class=&quot;py-4 d-flex flex-column flex-1 col-md-6&quot;]/div[@class=&quot;mt-5&quot;]/div[@class=&quot;mt-2 d-flex p-2 justify-content-end&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>05bd1cd7-a876-4b29-a1c5-509467ee51da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>c54faea7-7865-42fa-b604-e190992d5907</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div/div/div/div[3]/div[4]/div[2]/div/div/div/div[2]/div/button</value>
+      <webElementGuid>709d2bfc-5f89-408e-9cbe-51016551824a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Foto KTP'])[1]/following::button[1]</value>
+      <webElementGuid>d5d1addf-42af-4869-b7ba-c2ef5518a929</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Validasi KTP'])[2]/following::button[1]</value>
+      <webElementGuid>bd399377-06a1-4c81-95c6-40bf19ea374f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informasi Data KTP'])[1]/preceding::button[1]</value>
+      <webElementGuid>e2985db9-bdfe-4f56-8976-4ec5d2d53384</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>aea7eb04-fa87-4671-bd4b-8263552d933c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Cek KTP' or . = 'Cek KTP')]</value>
+      <webElementGuid>2a8c65b3-5193-4dd7-b9b6-2432e47e52de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

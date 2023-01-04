@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Activity Dashboard</name>
+   <tag></tag>
+   <elementGuidId>8de16c32-5d2b-4911-a0c0-d3c1e7f53595</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div/div[2]/ul[3]/li/a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Activity Dashboard' or . = 'Activity Dashboard')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ad3e2149-0ffa-433b-b2eb-7fcc29874150</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pointer</value>
+      <webElementGuid>4a00caa9-8c8c-4290-b216-86e624680961</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Activity Dashboard</value>
+      <webElementGuid>40939b5d-0b9a-4494-b1ff-ac5271ce49de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app-wrapper app-sidebar-fixed app-header-fixed&quot;]/div[1]/div[@class=&quot;app-sidebar app-sidebar--dark&quot;]/div[@class=&quot;app-sidebar--content&quot;]/div[@class=&quot;scrollbar-container ps&quot;]/div[@class=&quot;sidebar-navigation&quot;]/ul[3]/li[1]/a[@class=&quot;pointer&quot;]</value>
+      <webElementGuid>f17b607f-2fcf-448e-b250-551d153f226d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div/div[2]/ul[3]/li/a</value>
+      <webElementGuid>cfdddd67-eb7c-4c0f-887d-92383154ebf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perencanaan Kolektor SIC'])[1]/following::a[1]</value>
+      <webElementGuid>192d65fd-95bf-439a-be6c-669fbca0d447</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monitoring Kolektor SIC'])[1]/following::a[2]</value>
+      <webElementGuid>1075d5a6-6630-4ead-9a4f-76c84fcb5ebc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Microfinance'])[1]/preceding::a[1]</value>
+      <webElementGuid>d61567fb-b7c1-425d-9950-0d256ad2f7c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[3]/li/a</value>
+      <webElementGuid>b153f994-2da1-4384-ad0f-7755744ddb72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Activity Dashboard' or . = 'Activity Dashboard')]</value>
+      <webElementGuid>ed7c10c5-6806-46ef-99b5-99c77ba8d1ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

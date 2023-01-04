@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Pilih Data</name>
+   <tag></tag>
+   <elementGuidId>c2268f5c-bc68-4f48-bc29-4d2a3de45dc3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div/div/div/div/div[5]/div[4]/div[2]/div/div/div[3]/div/div/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7d869438-aaaf-4e94-a65d-58b87b4ce8e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-1hwfws3</value>
+      <webElementGuid>72b92fcf-58ac-4fad-b801-f39613e2a5b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Data...</value>
+      <webElementGuid>cbfa71c0-32a4-4361-89bc-ef44dcdaee2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app-wrapper app-sidebar-fixed app-header-fixed&quot;]/div[@class=&quot;app-main&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;app-content--inner&quot;]/div[@class=&quot;app-content--inner__wrapper&quot;]/div[1]/div[1]/div[@class=&quot;card card-box p-4 tabs-custom-prospect&quot;]/div[@class=&quot;card card-box mt-4&quot;]/div[@class=&quot;wizard vertical vertical-revert&quot;]/div[@class=&quot;bg-white&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;pl-0 col-sm-4&quot;]/div[1]/div[@class=&quot;p-3 bg-white&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;css-2b097c-container&quot;]/div[@class=&quot;css-uoudvr-control&quot;]/div[@class=&quot;css-1hwfws3&quot;]</value>
+      <webElementGuid>1bba034f-9994-4c5c-b6c1-8cbcb16f7c67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div/div/div/div[5]/div[4]/div[2]/div/div/div[3]/div/div/div[2]/div/div/div</value>
+      <webElementGuid>1aa478f4-dfe9-4150-b27e-89fe6422750a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Konfirmasi Alamat Prospek'])[1]/following::div[5]</value>
+      <webElementGuid>14e9c7f3-dfdc-4ddd-ba85-f3de010ab677</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Eksisting'])[1]/following::div[10]</value>
+      <webElementGuid>9ab5242e-933c-4c48-906a-640316dbbb06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::div[8]</value>
+      <webElementGuid>fbf63f62-0daf-45c2-bd4d-85ad37ddc122</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/div/div</value>
+      <webElementGuid>1d626fd2-8be4-4ec7-985c-98c88c91fa58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pilih Data...' or . = 'Pilih Data...')]</value>
+      <webElementGuid>ad43215f-4f1f-485e-9943-01b2a563d18d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

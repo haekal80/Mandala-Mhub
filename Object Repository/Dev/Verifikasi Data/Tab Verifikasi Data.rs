@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tab Verifikasi Data</name>
+   <tag></tag>
+   <elementGuidId>f4188d36-26a8-4864-a871-10c5814f9824</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div/div/div/div/div[5]/div/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8b832edb-2960-41cb-b117-fec867918b60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> py-3 nav-link</value>
+      <webElementGuid>d5f150a6-e386-411d-9c23-bf04c030dd62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Verifikasi Data</value>
+      <webElementGuid>78efd51e-7e87-4645-aa09-a871eda2a9a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app-wrapper app-sidebar-fixed app-header-fixed&quot;]/div[@class=&quot;app-main&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;app-content--inner&quot;]/div[@class=&quot;app-content--inner__wrapper&quot;]/div[1]/div[1]/div[@class=&quot;card card-box p-4 tabs-custom-prospect&quot;]/div[@class=&quot;nav-tabs-primary&quot;]/ul[@class=&quot;p-0 nav nav-tabs nav-justified&quot;]/li[@class=&quot;p-0 nav-item&quot;]/a[@class=&quot;py-3 nav-link&quot;]</value>
+      <webElementGuid>749a573f-933d-462a-9c72-051262d92430</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div/div/div/div[5]/div/ul/li[2]/a</value>
+      <webElementGuid>c989d219-71f6-455a-8a4d-d146878305bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aplikasi KPM'])[3]/following::a[1]</value>
+      <webElementGuid>ee8354b2-d147-4e30-92d4-df47fe2db2dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cocokan'])[1]/following::a[2]</value>
+      <webElementGuid>42ff55f3-5b74-4dd0-a7f5-99575cde4a0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Survey'])[1]/preceding::a[1]</value>
+      <webElementGuid>47563c8b-13f4-4ac6-ae74-f4b3ddd86a70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/ul/li[2]/a</value>
+      <webElementGuid>d089eed8-ea96-4290-bd51-ad9836196a5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Verifikasi Data' or . = 'Verifikasi Data')]</value>
+      <webElementGuid>beb74cf0-a9a5-4d24-8340-6bbdeeb1cb86</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

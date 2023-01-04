@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Proses</name>
+   <tag></tag>
+   <elementGuidId>b40d8c35-51e3-4880-9504-2d0341e38679</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[21]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7b510626-4694-4225-8053-21920ab21da4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b1937714-f221-4e63-bcf8-15b031472205</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m-2 btn-table btn btn-primary</value>
+      <webElementGuid>76142b6c-5776-40b2-ab56-c9f0bc02be36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Proses </value>
+      <webElementGuid>1c74d23b-c6b2-4387-990d-a98473fe9790</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app-wrapper app-sidebar-fixed app-header-fixed&quot;]/div[@class=&quot;app-main&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;app-content--inner&quot;]/div[@class=&quot;app-content--inner__wrapper&quot;]/div[1]/div[@class=&quot;card-box mb-5 card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;react-bootstrap-table&quot;]/table[@class=&quot;table table-striped table-hover table-bordered table-overflow&quot;]/tbody[1]/tr[12]/td[2]/button[@class=&quot;m-2 btn-table btn btn-primary&quot;]</value>
+      <webElementGuid>1917bb41-cc30-4339-ae35-b99984faa4cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[21]</value>
+      <webElementGuid>df7c17b5-3e13-4e11-8a46-90cd2c8222e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div/div/div[3]/div[3]/div[2]/table/tbody/tr[12]/td[2]/button</value>
+      <webElementGuid>827f5a83-f40e-4dfd-b939-0517362d23fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[55]/following::button[1]</value>
+      <webElementGuid>248063e9-e6dd-4ce8-b671-830c91867815</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[54]/following::button[1]</value>
+      <webElementGuid>d9aa480a-eef3-43ea-b1cf-b25825922249</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TES HAEKAL ENAM'])[1]/preceding::button[1]</value>
+      <webElementGuid>bca71866-a786-4429-a9b4-cd8a7e4e2234</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[56]/preceding::button[1]</value>
+      <webElementGuid>4d556290-bbd3-4c1c-8ce0-7ce706c86703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[12]/td[2]/button</value>
+      <webElementGuid>9ec036a7-b3ca-410d-b4d7-ae9237d2fd26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Proses ' or . = 'Proses ')]</value>
+      <webElementGuid>b38284c0-70c6-4fc0-9537-1c2c082f9ac8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

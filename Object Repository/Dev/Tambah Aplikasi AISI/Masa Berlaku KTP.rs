@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Masa Berlaku KTP</name>
+   <tag></tag>
+   <elementGuidId>8b5863a1-648a-4b02-8627-1b1a229e1a45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.pr-1.col-sm-6 > div.input-group > div.react-datepicker-wrapper.datePicker > div.react-datepicker__input-container > input.form-control</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value=''])[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>e629d5d8-b635-4029-ba27-592a1b75439a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>709b81ec-637d-457e-965f-c3cef2b83827</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>87eb9760-5730-45a7-8204-55774f576d38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/div[3]/div[1]/div[@class=&quot;modal fade show&quot;]/div[@class=&quot;modal-dialog modal-xl modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;p-0 m-0 modal-body&quot;]/div[1]/div[@class=&quot;wizard vertical add-leads&quot;]/div[@class=&quot;Loki&quot;]/div[@class=&quot;wizard-steps vertical add-leads&quot;]/div[@class=&quot;p-4&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;pr-1 col-sm-6&quot;]/div[@class=&quot;input-group&quot;]/div[@class=&quot;react-datepicker-wrapper datePicker&quot;]/div[@class=&quot;react-datepicker__input-container&quot;]/input[@class=&quot;form-control&quot;]</value>
+      <webElementGuid>f7bfa916-d0a5-45b8-ba01-5b2072112a74</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[7]</value>
+      <webElementGuid>83c23d94-55aa-44ab-ad62-35052396bf91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div[2]/div/input</value>
+      <webElementGuid>69962480-b8b0-401d-b9ca-103721a26274</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>02f09ae1-bbf3-4405-b300-0f07067a5ff9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

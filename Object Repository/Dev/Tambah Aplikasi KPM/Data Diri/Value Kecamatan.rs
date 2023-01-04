@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Value Kecamatan</name>
+   <tag></tag>
+   <elementGuidId>0760301a-653a-4511-a671-32a4ba63a1de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;react-select-24-option-${id}&quot;)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-select-24-option-24']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#react-select-24-option-24</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ac4d1c9f-2cd5-4471-b93f-c065cd0eb1a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-158nmiz-option</value>
+      <webElementGuid>9352ce0c-99cb-4c94-ae17-a539d79f6e8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>react-select-24-option-24</value>
+      <webElementGuid>5f15dd79-e1f0-437b-91c8-a5368dfb3a1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>c80f4931-c842-4e0f-8e47-19b872b03c5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>KOTA BOGOR SELATAN</value>
+      <webElementGuid>e8655a66-8612-48d7-aa67-544ba2738adc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-select-24-option-${id}&quot;)</value>
+      <webElementGuid>b860dc2f-56e8-4e68-9d79-da1edc5b4ba0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='react-select-24-option-24']</value>
+      <webElementGuid>4c7e199a-2982-4f13-8f2f-b3826fc19cd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KOTA BOGOR BARAT'])[1]/following::div[1]</value>
+      <webElementGuid>32382ca9-2a70-441f-8f6f-6520179c7e2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='bogo'])[1]/following::div[6]</value>
+      <webElementGuid>c3c2637e-d2e4-4692-865a-85eed88e1e2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KOTA BOGOR TENGAH'])[1]/preceding::div[1]</value>
+      <webElementGuid>d5ba0e46-710c-4649-8672-c24c06127aed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KOTA BOGOR TIMUR'])[1]/preceding::div[2]</value>
+      <webElementGuid>8ba02bda-d482-4507-a66b-d4a309b0baa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='KOTA BOGOR SELATAN']/parent::*</value>
+      <webElementGuid>df17be99-0320-4b22-9be9-b461d3636730</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[17]/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>688a62fa-4a30-403e-8f72-67cc19545d0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'react-select-24-option-24' and (text() = 'KOTA BOGOR SELATAN' or . = 'KOTA BOGOR SELATAN')]</value>
+      <webElementGuid>34524729-1a37-45a3-8b1f-f344876e3a6e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

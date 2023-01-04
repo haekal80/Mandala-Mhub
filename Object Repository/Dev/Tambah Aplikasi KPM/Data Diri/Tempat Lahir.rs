@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tempat Lahir</name>
+   <tag></tag>
+   <elementGuidId>94226010-49ff-488c-9fd9-ffd2c84246d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='Tempat Lahir']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>f4dd47f5-2b8b-4926-8ad7-eb925d0fab85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>857739b5-1a07-44f2-a1a7-9dbe55ac6764</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>c12bea5a-f940-4831-81cf-69dbdb030de9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/div[3]/div[1]/div[@class=&quot;modal fade show&quot;]/div[@class=&quot;modal-dialog modal-xl modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;p-0 m-0 modal-body&quot;]/div[1]/div[@class=&quot;wizard vertical add-leads&quot;]/div[@class=&quot;Loki&quot;]/div[@class=&quot;wizard-steps vertical add-leads&quot;]/div[@class=&quot;p-4&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;pr-1 col-sm-6&quot;]/div[@class=&quot;input-group&quot;]/div[@class=&quot;react-datepicker-wrapper datePicker&quot;]/div[@class=&quot;react-datepicker__input-container&quot;]/input[@class=&quot;form-control&quot;]</value>
+      <webElementGuid>547ac530-8dda-4962-97c6-cdddfa824a34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[11]</value>
+      <webElementGuid>5a19f6f3-b02d-4c46-b867-d95b1a5614b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div/div[2]/div/input</value>
+      <webElementGuid>c74f390e-2380-4f5d-8f05-0cccc5bfa08e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>c3d7734c-b9e0-4617-bd93-aa257bf1331f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

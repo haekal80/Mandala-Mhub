@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Aplikasi Masuk</name>
+   <tag></tag>
+   <elementGuidId>21df4d2f-f12e-470f-8eb6-5b8d03950d3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div/div[2]/ul[3]/li/div/ul/li[2]/div/ul/li[2]/div/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c08584c6-03e8-42b3-8514-b7e42d42514f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard/prospek</value>
+      <webElementGuid>a928b39c-5b11-4849-a136-a6e8ef3c080e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aplikasi Masuk</value>
+      <webElementGuid>b19c1570-3f17-4876-a2ae-00ffd2172186</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app-wrapper app-sidebar-fixed app-header-fixed&quot;]/div[1]/div[@class=&quot;app-sidebar app-sidebar--dark&quot;]/div[@class=&quot;app-sidebar--content&quot;]/div[@class=&quot;scrollbar-container ps ps--active-y&quot;]/div[@class=&quot;sidebar-navigation&quot;]/ul[3]/li[1]/div[@class=&quot;collapse show&quot;]/ul[1]/li[2]/div[@class=&quot;collapse show&quot;]/ul[1]/li[2]/div[@class=&quot;collapse show&quot;]/ul[1]/li[1]/a[1]</value>
+      <webElementGuid>4a774482-a611-4f7e-b9e2-26df2300f2f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div/div[2]/ul[3]/li/div/ul/li[2]/div/ul/li[2]/div/ul/li/a</value>
+      <webElementGuid>0a44521d-55e7-431e-a964-c1944d3a3487</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Aplikasi Masuk')]</value>
+      <webElementGuid>677bcbba-e078-4811-802d-816059cc0e2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengajuan Konsumen R2'])[1]/following::a[1]</value>
+      <webElementGuid>877e94ce-b21f-401d-9ac9-745fb7eef65f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Follow Up Prospek'])[1]/following::a[2]</value>
+      <webElementGuid>c4787412-b1cb-4ec1-a684-ef96b538f3d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SLIK Konsumen'])[1]/preceding::a[1]</value>
+      <webElementGuid>45618a2f-e65d-448d-b0a0-d805543a930f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Evaluasi Aplikasi'])[1]/preceding::a[2]</value>
+      <webElementGuid>82b17ec3-4a1f-46b4-9cca-1a71846d8ebf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Aplikasi Masuk']/parent::*</value>
+      <webElementGuid>45ae767e-3248-4193-af5f-3717e29e5d13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/dashboard/prospek')]</value>
+      <webElementGuid>5c6ff6e3-a964-4f6c-b17c-9e6e4819f7c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/ul/li[2]/div/ul/li/a</value>
+      <webElementGuid>dc69f53f-e363-45b6-81e7-d5b09d83d5b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/dashboard/prospek' and (text() = 'Aplikasi Masuk' or . = 'Aplikasi Masuk')]</value>
+      <webElementGuid>8ea7d628-e709-4d63-9f8f-be50493d69fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Value Karyawan</name>
+   <tag></tag>
+   <elementGuidId>f501e73f-4ec6-49e7-b400-df0ed278a407</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;react-select-28-option-${id}&quot;)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-select-28-option-1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#react-select-28-option-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>12a8f779-848b-4a21-8e6d-d59ae181c4f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-158nmiz-option</value>
+      <webElementGuid>7fe2bcfa-6cc9-4dfd-96e0-be3f4be6dad3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>react-select-28-option-1</value>
+      <webElementGuid>cba99e92-0d44-4a47-9a39-d8507d3d4b61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>7742fee7-e3e7-4420-ae86-007f41e47543</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>A RUKMANA | 8004286 | MGS</value>
+      <webElementGuid>4d3a5456-db89-417f-998d-ecd1a36a1d81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-select-28-option-${id}&quot;)</value>
+      <webElementGuid>24f2723e-e5f5-4084-bebc-a676fcf336c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='react-select-28-option-1']</value>
+      <webElementGuid>67b03f58-47c1-4858-9aa0-c9500bca8764</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A HAERUL HALID | 8016171 | MGS'])[1]/following::div[1]</value>
+      <webElementGuid>c8ff73f1-adf3-44cb-84f1-708bf4c446ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Nama Karyawan ...'])[1]/following::div[9]</value>
+      <webElementGuid>b819ff9c-9ace-402c-aaba-0b7bfb7d478e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AAN SAEFULLAH | 47889 | COLS'])[1]/preceding::div[1]</value>
+      <webElementGuid>7f704cd6-5b42-4a79-8fd6-9f41d47e838e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AAN SAGITA | 71358 | M0005'])[1]/preceding::div[2]</value>
+      <webElementGuid>d55102c6-9678-4b81-9358-df11a1a4da67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='A RUKMANA | 8004286 | MGS']/parent::*</value>
+      <webElementGuid>c87d600a-c097-443d-bc6d-9cd186bf89f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div[2]</value>
+      <webElementGuid>ddec22e8-df62-443e-b3ec-5a824e4f246d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'react-select-28-option-1' and (text() = 'A RUKMANA | 8004286 | MGS' or . = 'A RUKMANA | 8004286 | MGS')]</value>
+      <webElementGuid>2f036947-769b-4a26-9f37-576197878d3a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

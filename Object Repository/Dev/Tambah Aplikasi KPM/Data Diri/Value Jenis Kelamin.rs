@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Value Jenis Kelamin</name>
+   <tag></tag>
+   <elementGuidId>0d1b3ba9-2686-4be6-800a-1fa4a032b4dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;react-select-21-option-${id}&quot;)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-select-21-option-0']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#react-select-21-option-0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4127899a-d269-4a97-9bff-efb62677609b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-158nmiz-option</value>
+      <webElementGuid>7deb7c4d-2496-480d-94b9-6073b61de128</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>react-select-21-option-0</value>
+      <webElementGuid>9bbfac32-b025-4806-905c-0bfc28e4dbe4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>ddf49c4b-55c8-4ffe-8da7-181d9b1e11b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LAKI - LAKI</value>
+      <webElementGuid>f27b0be6-bb9c-41b4-a1c3-faf5b4bfc3d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-select-21-option-${id}&quot;)</value>
+      <webElementGuid>31417661-15cd-4bbf-9397-2feb8c71eafa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='react-select-21-option-0']</value>
+      <webElementGuid>4e1f1867-8e4b-4100-babf-1950daedf391</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Jenis Kelamin ...'])[1]/following::div[8]</value>
+      <webElementGuid>e47fbb3c-c595-4c99-8010-86b5c2c950ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[10]/following::div[12]</value>
+      <webElementGuid>442a914f-a395-4e0f-9b04-301598823bcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PEREMPUAN'])[1]/preceding::div[1]</value>
+      <webElementGuid>782a5c29-7562-4975-8ac5-98a7e786caba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='LAKI - LAKI']/parent::*</value>
+      <webElementGuid>80264d91-1917-4657-bb5f-07699017915f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div[2]/div/div[2]/div/div</value>
+      <webElementGuid>4d0804c1-b310-42c3-aa29-3d4fecc67cce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'react-select-21-option-0' and (text() = 'LAKI - LAKI' or . = 'LAKI - LAKI')]</value>
+      <webElementGuid>c63f11ba-5ced-4558-a44d-302229b20dbb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

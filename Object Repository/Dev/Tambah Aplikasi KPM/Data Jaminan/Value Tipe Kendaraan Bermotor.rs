@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Value Tipe Kendaraan Bermotor</name>
+   <tag></tag>
+   <elementGuidId>913eb183-5acc-47ed-b834-8447f7941b01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'ABSOLUTE REVO CW (REVO 110 NEW)' or . = 'ABSOLUTE REVO CW (REVO 110 NEW)')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-select-64-option-1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#react-select-64-option-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>83c84f5a-6e6a-4b53-9606-302580e61ceb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-158nmiz-option</value>
+      <webElementGuid>b45cd1da-41b9-401f-bbc1-a691939b4211</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>react-select-64-option-${id}</value>
+      <webElementGuid>a9f30fc6-5166-4b33-bc65-8e3749b19d12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>2ad8ffb4-4561-4b53-ad19-ac080c184b3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ABSOLUTE REVO CW (REVO 110 NEW)</value>
+      <webElementGuid>b6775849-b954-4f4d-bfb0-803f5346f913</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-select-64-option-${id}&quot;)</value>
+      <webElementGuid>07b40ccd-e9ea-40d4-bc36-574f7e6a73b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='react-select-64-option-1']</value>
+      <webElementGuid>e032b274-c4a5-40f7-aa4d-1c048614f089</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ABSOLUTE REVO'])[1]/following::div[1]</value>
+      <webElementGuid>2ebe865c-1777-4079-9584-ef94789bec12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Tipe ...'])[1]/following::div[9]</value>
+      <webElementGuid>e18151bf-dddc-4dca-9ca3-bf4fb5151825</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ABSOLUTE REVO DX (REVO 110 NEW)'])[1]/preceding::div[1]</value>
+      <webElementGuid>880e24aa-62b1-404e-b05e-582c549ca827</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ABSOLUTE REVO SW (REVO 110 NEW)'])[1]/preceding::div[2]</value>
+      <webElementGuid>6ce382e9-f9f2-4f2c-bea6-29fd87b77e1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ABSOLUTE REVO CW (REVO 110 NEW)']/parent::*</value>
+      <webElementGuid>1fe80df2-9b1e-432b-8780-506c0f4192ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div[2]</value>
+      <webElementGuid>3581eac4-39fb-40ea-9275-e0eea48f6452</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'react-select-64-option-1' and (text() = 'ABSOLUTE REVO CW (REVO 110 NEW)' or . = 'ABSOLUTE REVO CW (REVO 110 NEW)')]</value>
+      <webElementGuid>bec9febd-4c27-4d78-b624-532d263e8012</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
