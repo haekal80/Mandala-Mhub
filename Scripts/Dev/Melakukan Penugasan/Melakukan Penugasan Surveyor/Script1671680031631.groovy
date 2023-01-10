@@ -21,19 +21,51 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 
-//int tr = 25;  //Atas ke bawah (Jam Penugasan). Minimal 1, Maksimal 37
-//int td = 3;  //Kiri ke kanan (Tanggal Penugasan). Minimal 2, Maksimal 8
+//int tr = 30;  //Atas ke bawah (Jam Penugasan). Minimal 1, Maksimal 37
+//int td = 5;  //Kiri ke kanan (Tanggal Penugasan). Minimal 2, Maksimal 8
 
+Date d=new Date()
+
+int day = d.getDay()
+
+KeywordUtil.logInfo('Ini adalah hari nya 1: ' +day)
+switch (day) {
+  case 0:
+	day = 8
+	break;
+  case 1:
+	day = 2
+	break;
+  case 2:
+	day = 3
+	break;
+  case 3:
+	day = 4
+	break;
+  case 4:
+	day = 5
+	break;
+  case 5:
+	day = 6
+	break;
+  case 6:
+  	day = 7
+	break;
+}
+
+String attribute
+
+KeywordUtil.logInfo('Ini adalah hari nya 2: ' +day)
 Boolean clicked = false
-for(int i = 2; i<=8; i++) {
+for(int i = day; i<=8; i++) {
 	for(int j = 1; j<=37; j++) {
-		if(WebUI.verifyElementAttributeValue((findTestObject('Object Repository/Dev/Penugasan/Waktu Penugasan', [('tr') : j, ('td') : i])), 'class', 'selectable-column', 30, FailureHandling.OPTIONAL)) {
+		attribute = WebUI.getAttribute(findTestObject('Object Repository/Dev/Penugasan/Waktu Penugasan', [('tr') : j, ('td') : i]), 'class')
+		KeywordUtil.logInfo('Ini adalah class attributenya: ' +attribute)
+		if(!attribute.contains('disabled')) {
 			WebUI.click(findTestObject('Object Repository/Dev/Penugasan/Waktu Penugasan', [('tr') : j, ('td') : i]))
 			clicked = true
 			KeywordUtil.logInfo('ke print kok if nya. i (td) = ' +i+ '. j (tr) = ' +j)
 			break
-		}
-		else {
 		}
 	}
 	if(clicked)

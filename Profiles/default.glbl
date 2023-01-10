@@ -6,7 +6,7 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'TEST SYARIAH AISI DUA'</initValue>
+      <initValue>'KPM EWAKO SATU'</initValue>
       <name>namaAplikasi</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
